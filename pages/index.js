@@ -20,18 +20,18 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://codigohamming.vercel.app/" className={styles.card}>
             <h3>Códigos de Hamming &rarr;</h3>
             <p>Descubiertos entre 1947 y 1948 por R. W. Hamming y M. J. E. Golay, se trata de un conjunto decódigos lineales óptimos para corregir errores que afecten a un solo símbolo.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://codigogolay.vercel.app/" className={styles.card}>
             <h3>Códigos de Golay &rarr;</h3>
             <p>Los códigos de Golay están formados por una familia de cuatro códigos, en este apartado haremos la presentación mediante el uso de matrices generatrices.</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://demostraciones.vercel.app/"
             className={styles.card}
           >
             <h3>Demostraciones &rarr;</h3>
@@ -40,7 +40,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://ejemplosmatlab.vercel.app/"
             className={styles.card}
           >
             <h3>Ejemplos en Matlab &rarr;</h3>
